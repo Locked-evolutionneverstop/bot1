@@ -2,7 +2,7 @@ import time, threading, schedule
 from datetime import datetime
 from telebot import TeleBot
 
-API_TOKEN = '7671706348:AAEyY_86IyZM2OCEQ5PgkfHnjl17UCZpBhc'  # ⚠️ ЗАМЕНИ этот токен на новый!
+API_TOKEN =''  # ⚠️ ЗАМЕНИ этот токен на новый!
 bot = TeleBot(API_TOKEN)
 
 
